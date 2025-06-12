@@ -1,4 +1,3 @@
-```markdown```
 # SafeLink - AI-Powered Patient Safety Checklist
 
 SafeLink is a React Native application designed to assist medical professionals in generating and managing patient safety checklists. Powered by advanced AI (Gemini API), SafeLink ensures that patient safety protocols are followed with precision and empathy.
